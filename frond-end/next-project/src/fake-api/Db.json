@@ -1,0 +1,51 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Badra",
+      "email": "anyaunyu@gmail.com",
+      "password": "pass1234",
+      "full_name": "abrakabadra"
+    }
+  ],
+  "posts": [
+    {
+      "userId": 1,
+      "location": "BSD",
+      "image_url": "https://th.bing.com/th/id/OIP.qnsrxIkbZzqdg5Uel2l2CQDOEs?pid=ImgDet&rs=1",
+      "number_of_likes": 1234,
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolore enim praesentium inventore asperiores sunt corporis unde dicta ipsa dolorum voluptatibus dolor, odio nobis est consequuntur labore!",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "location": "Jakarta",
+      "image_url": "https://i.pinimg.com/564x/1b/bc/d5/1bbcd5209bd03904a250e16a01d85ef7.jpg",
+      "number_of_likes": 23123,
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolore enim praesentium inventore asperiores sunt corporis unde dicta ipsa dolorum voluptatibus dolor, odio nobis est consequuntur labore!",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "location": "Bandung",
+      "image_url": "https://i.pinimg.com/564x/dc/a4/ce/dca4ceb41a651f9831addbeb653bdf1a.jpg",
+      "number_of_likes": 54354353,
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolore enim praesentium inventore asperiores sunt corporis unde dicta ipsa dolorum voluptatibus dolor, odio nobis est consequuntur labore!",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "userId": 1,
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "postId": 1
+    },
+    {
+      "username": "jordan",
+      "content": "asdsadsadsa",
+      "postId": 2,
+      "id": 2
+    }
+  ]
+}
